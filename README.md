@@ -132,15 +132,15 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 
 ## What I Learned from this Project
 
-Gained a clear understanding of row context and filter context and how they influence calculations, helping in deriving accurate and meaningful metrics.
+• Gained a clear understanding of row context and filter context and how they influence calculations, helping in deriving accurate and meaningful metrics.
 
-Learned to apply DAX functions such as SUMX, COUNTX, and CALCULATE effectively by choosing the correct context based on business requirements.
+• Learned to apply DAX functions such as SUMX, COUNTX, and CALCULATE effectively by choosing the correct context based on business requirements.
 
-Understood the importance of creating measures instead of calculated columns, which helps reduce memory usage and improves report performance and loading speed.
+• Understood the importance of creating measures instead of calculated columns, which helps reduce memory usage and improves report performance and loading speed.
 
-Explored data drilling techniques (drill-up and drill-down) to create dynamic and interactive visuals, enabling faster insight discovery without creating redundant charts.
+• Explored data drilling techniques (drill-up and drill-down) to create dynamic and interactive visuals, enabling faster insight discovery without creating redundant charts.
 
-Developed the ability to evaluate insights with reasoning and impact and how it should be highlighted or hidden based on their business relevance, client requirements, and decision-making impact.
+• Developed the ability to evaluate insights with reasoning and impact and how it should be highlighted or hidden based on their business relevance, client requirements, and decision-making impact.
 
 
 
