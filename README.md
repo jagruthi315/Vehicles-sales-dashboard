@@ -1,27 +1,27 @@
-## VEHICLES SALES DASHBOARD ANALYSIS SUPPORT
+# VEHICLES SALES DASHBOARD ANALYSIS SUPPORT
 # Objective
 To analyze vehicle sales data to identify revenue trends, popular vehicle categories, key regions , and to provide actionable business insights using visual analytics.
 
-# Tech Stack 
+## Tech Stack 
 • Power BI (Data visualization & dashboard creation)
 • Power Query (Data cleaning and transformation)
 • Kaggle(Dataset source)
 • File formats : .pbit for development and .png for dashboard previews.
 
-# Dataset Description
+## Dataset Description
 The analysis uses a Vehicles dataset sourced from Kaggle. The dataset includes information related to vehicles like cars, trains , ships, trucks and buses etc that are being sold and bought across various regions.
 
-# Key columns used in this analysis: 
+## Key columns used in this analysis: 
 •city •state • country • territory • deal size • sales •delivery time • order time
 
-## Methodology
+# Methodology
 
-# Data Collection
+## Data Collection
 
 The dataset was obtained from Kaggle and imported into Power BI for analysis.
 It contains detailed records of vehicle sales, including product lines, deal sizes, order status, delivery times, customer locations, and revenue metrics.
 
-# Data Understanding
+## Data Understanding
 
 The initial step involved exploring the dataset structure and defining key business questions, such as:
 
@@ -37,7 +37,7 @@ Which areas show high cancellations or operational issues?
 
 This step helped identify relevant fields and define the analytical scope.
 
-# Data Cleaning
+## Data Cleaning
 
 To ensure accuracy and consistency:
 
@@ -51,7 +51,7 @@ Standardized categorical fields such as product line, territory, and order statu
 
 This ensured reliable and clean data for analysis.
 
-# Feature Engineering
+## Feature Engineering
 
 New measures and calculated fields were created using DAX to enhance analysis:
 
@@ -71,7 +71,7 @@ Revenue Contribution by Product Line
 
 These transformations enabled deeper insights and more meaningful visualizations.
 
- # Data Visualization
+ ## Data Visualization
 
 The cleaned and transformed data was visualized in Power BI using appropriate charts:
 
@@ -87,11 +87,11 @@ Area Charts → Monthly delivery time trends
 
 Visual types were selected based on the insight required (trend, comparison, distribution, or proportion).
 
-# Dashboard Overview
+## Dashboard Overview
 
 The Vehicles Sales Dashboard provides a consolidated view of sales performance, operational efficiency, and geographic trends.
 
-# It includes:
+## It includes:
 
 KPI cards showing total sales, average order value, average price, and total orders
 
@@ -107,7 +107,7 @@ Geographic performance by territory, country, state, and city
 
 This dashboard enables stakeholders to monitor performance, identify growth opportunities, and address operational inefficiencies.
 
-# Key insights uncovered:
+## Key insights uncovered:
 
 1. Total sales of 8.07M with an average order value of ~27.08K
 
@@ -126,11 +126,11 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 8. There is no mismatch between quantity ordered and revenue generated , suggesting that vehicle pricing is well aligned wit customer demand.
 
 # Screenshot 
-# Vehicles Sales Dashboard Preview:
+## Vehicles Sales Dashboard Preview:
 !()
 
 
-# What I Learned from this Project
+## What I Learned from this Project
 
 Gained a clear understanding of row context and filter context and how they influence calculations, helping in deriving accurate and meaningful metrics.
 
