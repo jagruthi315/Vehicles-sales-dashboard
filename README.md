@@ -6,7 +6,7 @@ To analyze vehicle sales data to identify revenue trends, popular vehicle catego
 • Power BI (Data visualization & dashboard creation)
 • Power Query (Data cleaning and transformation)
 • Kaggle(Dataset source)
-• File formats : .pbit for development and .png for dashboard previews.
+• File formats - .pbit for development and .png for dashboard previews.
 
 ## Dataset Description
 The analysis uses a Vehicles dataset sourced from Kaggle. The dataset includes information related to vehicles like cars, trains , ships, trucks and buses etc that are being sold and bought across various regions.
@@ -125,11 +125,6 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 
 8. There is no mismatch between quantity ordered and revenue generated , suggesting that vehicle pricing is well aligned wit customer demand.
 
-# Screenshot 
-## Vehicles Sales Dashboard Preview:
-![Dashboard Preview:](https://github.com/jagruthi315/Vehicles-sales-dashboard/blob/main/vehicles%20sales%20dashboard.PNG)
-
-
 ## What I Learned from this Project
 
 • Gained a clear understanding of row context and filter context and how they influence calculations, helping in deriving accurate and meaningful metrics.
@@ -141,6 +136,11 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 • Explored data drilling techniques (drill-up and drill-down) to create dynamic and interactive visuals, enabling faster insight discovery without creating redundant charts.
 
 • Developed the ability to evaluate insights with reasoning and impact and how it should be highlighted or hidden based on their business relevance, client requirements, and decision-making impact.
+
+# Screenshot 
+## Vehicles Sales Dashboard Preview:
+![Dashboard Preview:](https://github.com/jagruthi315/Vehicles-sales-dashboard/blob/main/vehicles%20sales%20dashboard.PNG)
+
 
 
 
