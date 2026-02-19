@@ -127,7 +127,7 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 
 # Screenshot 
 ## Vehicles Sales Dashboard Preview:
-!()
+![Dashboard Preview:]()
 
 
 ## What I Learned from this Project
