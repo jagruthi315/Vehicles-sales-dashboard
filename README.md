@@ -13,7 +13,14 @@ To analyze vehicle sales data to identify revenue trends, popular vehicle catego
 The analysis uses a Vehicles dataset sourced from Kaggle. The dataset includes information related to vehicles like cars, trains , ships, trucks and buses etc that are being sold and bought across various regions.
 
 ## Key columns used in this analysis: 
-•city •state • country • territory • deal size • sales •delivery time • order time
+• city
+• state
+• country
+• territory
+• deal size
+• sales
+• delivery time
+• order time
 
 # Methodology
 
@@ -24,33 +31,33 @@ It contains detailed records of vehicle sales, including product lines, deal siz
 
 ## Data Understanding
 
-The initial step involved exploring the dataset structure and defining key business questions, such as:
+• The initial step involved exploring the dataset structure and defining key business questions, such as:
 
-Which product lines generate the most revenue?
+• Which product lines generate the most revenue?
 
-How do sales vary by region and time?
+• How do sales vary by region and time?
 
-What deal sizes contribute most to sales volume?
+• What deal sizes contribute most to sales volume?
 
-Are delivery times improving over time?
+• Are delivery times improving over time?
 
-Which areas show high cancellations or operational issues?
+• Which areas show high cancellations or operational issues?
 
-This step helped identify relevant fields and define the analytical scope.
+• This step helped identify relevant fields and define the analytical scope.
 
 ## Data Cleaning
 
-To ensure accuracy and consistency:
+• To ensure accuracy and consistency:
 
-Removed irrelevant columns not required for analysis
+• Removed irrelevant columns not required for analysis
 
-Handled missing and null values appropriately
+• Handled missing and null values appropriately
 
-Removed duplicate or invalid records
+• Removed duplicate or invalid records
 
-Standardized categorical fields such as product line, territory, and order status
+• Standardized categorical fields such as product line, territory, and order status
 
-This ensured reliable and clean data for analysis.
+• This ensured reliable and clean data for analysis.
 
 ## Feature Engineering
 
