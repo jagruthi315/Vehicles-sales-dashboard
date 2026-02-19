@@ -6,6 +6,7 @@ To analyze vehicle sales data to identify revenue trends, popular vehicle catego
 • Power BI (Data visualization & dashboard creation)
 • Power Query (Data cleaning and transformation)
 • Kaggle(Dataset source)
+
 • File formats - .pbit for development and .png for dashboard previews.
 
 ## Dataset Description
