@@ -127,7 +127,7 @@ This dashboard enables stakeholders to monitor performance, identify growth oppo
 
 # Screenshot 
 ## Vehicles Sales Dashboard Preview:
-![Dashboard Preview:]()
+![Dashboard Preview:](https://github.com/jagruthi315/Vehicles-sales-dashboard/blob/main/vehicles%20sales%20dashboard.PNG)
 
 
 ## What I Learned from this Project
